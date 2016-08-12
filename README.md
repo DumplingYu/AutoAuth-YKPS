@@ -1,5 +1,5 @@
 # AutoAuth-YKPS
-An automatic login scirpt for *YKPS*.
+An automatic login Python scirpt for *YKPS*.
 
 Python Version: **3.5.1**
 
