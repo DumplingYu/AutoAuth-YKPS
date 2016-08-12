@@ -13,3 +13,4 @@ OS: **OSX / macOS**
 * Easier, faster installation
 * Automatically connects to Wi-Fi
 * Automatically runs before disconnected and after booting
+* Supprt Windows / Linux
