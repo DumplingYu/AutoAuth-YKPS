@@ -1,20 +1,24 @@
 # AutoAuth-YKPS
+
 An automatic login Python scirpt for *YKPS*.
+
+Latest Version: **2.0.0**
 
 Python Version: **3.5**
 
-OS Supported: **OSX / macOS**
+Supported OS: **OSX / macOS 10.9+**
 
 ##Known Issues
-* Sometimes it just doesn't work :(
-* There will be an error at the end of installation.
+* In rare situations, the program takes forever to run
+* In rare situations, the program lags the computer
+* Running AutoAuth with VPN open will not work
 
 ##Goals
-* Easier, faster installation
-* Automatically connects to Wi-Fi
-* Automatically runs before disconnected and after booting
-* Supprt Windows / Linux
+* Automatically connect to Wi-Fi
+* Automatically run before disconnected and after booting
+* Automatically run every few minutes
+* Support Windows / Linux
 
 ##Downloads
-* [**AutoAuth 2.0** (*WITH* Python Install Package)](https://pan.baidu.com/s/1miATkb2)  
-* [**AutoAuth2.0** (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1bp9jBaR)
+* [**AutoAuth 2.0** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1miATkb2)  
+* [**AutoAuth2.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1bp9jBaR)
