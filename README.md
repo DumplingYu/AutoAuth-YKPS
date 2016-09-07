@@ -21,4 +21,4 @@ Supported OS: **OSX / macOS 10.9+**
 
 ##Downloads
 * [**AutoAuth 2.0** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1miATkb2)  
-* [**AutoAuth2.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1bp9jBaR)
+* [**AutoAuth 2.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1bp9jBaR)
