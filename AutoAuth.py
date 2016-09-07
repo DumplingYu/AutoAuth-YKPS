@@ -1,5 +1,5 @@
 # AutoAuth - YKPS
-# 2.0.0
+# 2.0.1
 
 import os
 
@@ -26,8 +26,9 @@ except Exception:
 
 try:
     #Get Username and Password
-    file = open('/Users/GeorgeYu/Library/Application Support/My Python Projects/AutoAuth/secret.DO_NOT_OPEN_THIS_FILE.txt')
+    file = open(os.path.expanduser('~/Library/Application Support/AutoAuth/usr.dat'))
     username = file.readline().strip()
+    if username[0] != 's': username = 's' + usernmae
     password = file.readline().strip()
 except Exception:
     notif('Error while getting user info [0x03]')
