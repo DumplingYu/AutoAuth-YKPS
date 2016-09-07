@@ -1,5 +1,9 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2016.9.7 (2.0.1)
+* Added support for wrongly formatted username
+* Fixed paths
+
 ## 2016.9.7 (2.0)
 * Added dynamic support for the *authServ* query string
 * Made installation easier and faster
