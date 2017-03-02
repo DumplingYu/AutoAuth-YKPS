@@ -61,7 +61,10 @@ except Exception:
 try:
     #The Blue Auth Page
     #Get authServ and oldURL
-    web = requests.get('http://www.apple.com/cn/', allow_redirects=True)
+    headers = {'User-Agent': 'Mozilla/5.0',
+               'Accept-Encoding': 'gzip, deflate, sdch',
+               'Accept-Language': 'zh-CN,zh;q=0.8,en;q=0.6'}
+    web = requests.get('http://www.apple.com/cn/', allow_redirects=True, headers=headers)
     oldURL = unquote(web.url.split('oldURL=')[1].split('&')[0])
     authServ = unquote(web.url.split('authServ=')[1])
 except IndexError:
