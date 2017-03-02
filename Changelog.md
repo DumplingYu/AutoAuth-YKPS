@@ -1,5 +1,12 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.2 (3.0)
+* Encrypts (actually just encodes) password
+* Able to check for updates
+* Changes the access to baike.baidu.com to apple.com for faster response
+* Fixed [issue 1](https://github.com/yu-george/AutoAuth-YKPS/issues/1)
+* Minimized requests header content
+
 ## 2016.9.7 (2.0.1)
 * Added support for wrongly formatted username
 * Fixed paths
