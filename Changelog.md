@@ -6,6 +6,7 @@
 * Changes the access to baike.baidu.com to apple.com for faster response
 * Fixed [issue 1](https://github.com/yu-george/AutoAuth-YKPS/issues/1)
 * Minimized requests header content
+* Updated python install pacakge to 3.6
 
 ## 2016.9.7 (2.0.1)
 * Added support for wrongly formatted username
