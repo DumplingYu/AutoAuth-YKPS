@@ -8,6 +8,9 @@ Python Version: **3.5+**
 
 Supported OS: **OSX / macOS 10.9+**
 
+## Note
+Simply downloading and running the python file in github **will not work**! Please download through the links below and follow the installation instructions!
+
 ## Known Issues
 * In rare situations, the program takes forever to run
 * In rare situations, the program lags the computer
