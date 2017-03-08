@@ -24,9 +24,14 @@ Simply downloading and running the python file in github **will not work**! Plea
 
 ## Downloads
 ### Latest Version
+* [**AutoAuth 3.1** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1nvbjcLj)
+* [**AutoAuth 3.1** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1dF9ptWd)
+
+### Older Versions
+#### 3.0
 * [**AutoAuth 3.0** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1mirzGgg)
 * [**AutoAuth 3.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1hrCWvQG)
 
-### Older Versions
+#### 2.0
 * [**AutoAuth 2.0** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1miATkb2)
 * [**AutoAuth 2.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1bp9jBaR)
