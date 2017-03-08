@@ -1,5 +1,9 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.8 (3.1)
+* Added multithread support - it now runs so much faster!
+* Update AutoAuth.app info
+
 ## 2017.3.2 (3.0)
 * Encrypts (actually just encodes) password
 * Able to check for updates
