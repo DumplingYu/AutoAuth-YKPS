@@ -23,6 +23,7 @@ Simply downloading and running the python file in github **will not work**! Plea
 * Support Windows / Linux
 
 ## Downloads
+You can find downloads of AutoAuth *without* the python installation package in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). You can also download via the links below.
 ### Latest Version
 * [**AutoAuth 3.1** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1nvbjcLj)
 * [**AutoAuth 3.1** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1dF9ptWd)
