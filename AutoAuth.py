@@ -1,7 +1,9 @@
 # AutoAuth - YKPS
-# 3.1
+# 3.1.1
+# Author: George Yu
+# Github: https://github.com/yu-george/AutoAuth-YKPS/
 
-VERSION = '3.1'
+VERSION = '3.1.1'
 
 try:
     import os
@@ -20,8 +22,8 @@ def notif(message):
 
 def check_update():
     try:
-        web = requests.get('https://yu-george.github.io/archive/versions.json', timeout=1.5)
-        latest = web.json()['autoauth']
+        web = requests.get('https://raw.githubusercontent.com/yu-george/AutoAuth-YKPS/master/version', timeout=1.5)
+        latest = web.text
         if latest != VERSION:
             os.system('osascript -e \'display notification "Update Available!" with title "AutoAuth" sound name "Glass"\'')
     except requests.exceptions.Timeout:
@@ -64,6 +66,10 @@ def login_blueauth(): # The Blue Auth Page
     except Exception:
         notif('Error while loggin in the blue auth page [0x06]')
 
+def auth():
+    login_webauth()
+    login_blueauth()
+
 try:
     requests.packages.urllib3.disable_warnings() # Disable Warnings
     # Get Private IP Address and MAC Address
@@ -80,5 +86,4 @@ except Exception:
     notif('Error while getting user info [0x03]')
 
 Thread(target=check_update).start()
-Thread(target=login_webauth).start()
-Thread(target=login_blueauth).start()
+Thread(target=auth).start()
