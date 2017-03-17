@@ -2,7 +2,7 @@
 
 An automatic login Python scirpt for *YKPS*.
 
-Latest Version: **3.1**
+Latest Version: **3.1.1**
 
 Python Version: **3.5+**
 
@@ -25,10 +25,14 @@ Simply downloading and running the python file in github **will not work**! Plea
 ## Downloads
 You can find downloads of AutoAuth *without* the python installation package in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). You can also download via the links below.
 ### Latest Version
+* [**AutoAuth 3.1.1** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1mhB3i8S)
+* [**AutoAuth 3.1.1** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1mit24Co)
+
+### Older Versions
+#### 3.1
 * [**AutoAuth 3.1** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1nvbjcLj)
 * [**AutoAuth 3.1** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1dF9ptWd)
 
-### Older Versions
 #### 3.0
 * [**AutoAuth 3.0** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1mirzGgg)
 * [**AutoAuth 3.0** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1hrCWvQG)
