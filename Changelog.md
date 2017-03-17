@@ -1,5 +1,8 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.17 (3.1.1)
+* Fixed order of authentication
+
 ## 2017.3.8 (3.1)
 * Added multithread support - it now runs so much faster!
 * Update AutoAuth.app info
