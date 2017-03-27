@@ -1,5 +1,8 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.27 (3.1.3)
+* Fixed update notification issue
+
 ## 2017.3.27 (3.1.2)
 * Fixed installation issue
 
