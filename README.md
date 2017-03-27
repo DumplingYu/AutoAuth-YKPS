@@ -2,7 +2,7 @@
 
 An automatic login Python scirpt for *YKPS*.
 
-Latest Version: **3.1.1**
+Latest Version: **3.1.2**
 
 Python Version: **3.5+**
 
