@@ -1,9 +1,9 @@
 # AutoAuth - YKPS
-# 3.1.2
+# 3.1.3
 # Author: George Yu
 # URL: https://github.com/yu-george/AutoAuth-YKPS/
 
-VERSION = '3.1.2'
+VERSION = '3.1.3'
 
 try:
     import os
@@ -23,7 +23,7 @@ def notif(message):
 def check_update():
     try:
         web = requests.get('https://raw.githubusercontent.com/yu-george/AutoAuth-YKPS/master/version', timeout=1.5)
-        latest = web.text
+        latest = web.text.strip()
         if latest != VERSION:
             os.system('osascript -e \'display notification "Update Available!" with title "AutoAuth" sound name "Glass"\'')
     except requests.exceptions.Timeout:
