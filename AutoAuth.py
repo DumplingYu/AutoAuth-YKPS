@@ -1,9 +1,9 @@
 # AutoAuth - YKPS
-# 3.1.1
+# 3.1.2
 # Author: George Yu
-# Github: https://github.com/yu-george/AutoAuth-YKPS/
+# URL: https://github.com/yu-george/AutoAuth-YKPS/
 
-VERSION = '3.1.1'
+VERSION = '3.1.2'
 
 try:
     import os
