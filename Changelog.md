@@ -1,5 +1,8 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.27 (3.1.2)
+* Fixed installation issue
+
 ## 2017.3.17 (3.1.1)
 * Fixed order of authentication
 
