@@ -1,5 +1,13 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.29 (3.1.4)
+* Added another two ways of retrieving user's private ip address
+* Used regex instead of split()
+* Added python version check
+* Changed running python method (now /usr/bin/env python)
+* Added error notifications for more situations
+* Slightly optimized code
+
 ## 2017.3.27 (3.1.3)
 * Fixed update notification issue
 
