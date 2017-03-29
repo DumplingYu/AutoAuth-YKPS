@@ -2,9 +2,9 @@
 
 An automatic login Python scirpt for *YKPS*.
 
-Latest Version: **3.1.3**
+Latest Version: **3.1.4**
 
-Python Version: **3.5+**
+Python Version: **3.X**
 
 Supported OS: **OSX / macOS 10.9+**
 
@@ -12,6 +12,7 @@ Supported OS: **OSX / macOS 10.9+**
 Simply downloading and running the python file in github **will not work**! Please download through the links below and follow the installation instructions!
 
 ## Known Issues
+* /usr/bin/env python cannot run the correct version of python (3.X)
 * In rare situations, the program takes forever to run
 * In rare situations, the program lags the computer
 * Running AutoAuth with VPN open will not work
@@ -26,10 +27,14 @@ Simply downloading and running the python file in github **will not work**! Plea
 You can find downloads of AutoAuth *without* the python installation package in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). You can also download via the links below.
 
 ### Latest Version
+* [**AutoAuth 3.1.4** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1jIMD082)
+* [**AutoAuth 3.1.4** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1pLNPks7)
+
+### Older Versions
+#### 3.1.3
 * [**AutoAuth 3.1.3** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1cakEGe)
 * [**AutoAuth 3.1.3** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1mimH1mK)
 
-### Older Versions
 #### 3.1.2
 * [**AutoAuth 3.1.2** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1slHFyoP)
 * [**AutoAuth 3.1.2** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1kV7cpKF)
