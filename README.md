@@ -12,12 +12,12 @@ Supported OS: **OSX / macOS 10.9+**
 Simply downloading and running the python file in github **will not work**! Please download through the links below and follow the installation instructions!
 
 ## Known Issues
-* /usr/bin/env python cannot run the correct version of python (3.X)
 * In rare situations, the program takes forever to run
 * In rare situations, the program lags the computer
 * Running AutoAuth with VPN open will not work
 
 ## Goals
+* Faster, faster, faster!
 * Automatically connect to Wi-Fi
 * Automatically run before disconnected and after booting
 * Automatically run every few minutes (cron)
