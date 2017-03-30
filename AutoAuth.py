@@ -1,9 +1,14 @@
 # AutoAuth - YKPS
-# 3.1.4
+# 3.1.5
 # Author: George Yu
 # URL: https://github.com/yu-george/AutoAuth-YKPS/
 
-VERSION = '3.1.4'
+VERSION = '3.1.5'
+
+def notif(message, exitAfter=True, soundName='Basso'):
+    system('osascript -e \'display notification "{}" with title "AutoAuth" sound name "{}"\''.format(message, soundName))
+    if exitAfter:
+        exit()
 
 try:
     from requests import get, post
@@ -18,11 +23,6 @@ try:
     from re import compile
 except ImportError:
     notif('Error while importing [0x01]')
-
-def notif(message, exitAfter=True, soundName='Basso'):
-    system('osascript -e \'display notification "{}" with title "AutoAuth" sound name "{}"\''.format(message, soundName))
-    if exitAfter:
-        exit()
 
 def check_update():
     try:
