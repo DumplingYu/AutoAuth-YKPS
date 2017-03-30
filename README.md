@@ -2,7 +2,7 @@
 
 An automatic login Python scirpt for *YKPS*.
 
-Latest Version: **3.1.4**
+Latest Version: **3.1.5**
 
 Python Version: **3.X**
 
@@ -20,17 +20,22 @@ Simply downloading and running the python file in github **will not work**! Plea
 ## Goals
 * Automatically connect to Wi-Fi
 * Automatically run before disconnected and after booting
-* Automatically run every few minutes
+* Automatically run every few minutes (cron)
 * Support Windows / Linux
 
-## Downloads
-You can find downloads of AutoAuth *without* the python installation package in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). You can also download via the links below.
+## Downloads and Installation
+Before installing AutoAuth, make sure that you have downloaded and installed the latest version of Python through [Python's official website](https://www.python.org/downloads/), or directly downloading [Python 3.6.1](https://www.python.org/ftp/python/3.6.1/python-3.6.1-macosx10.6.pkg).
+
+You can find downloads of AutoAuth in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). Alternatively, you can also download via the links below.
 
 ### Latest Version
+* [**AutoAuth 3.1.5** (OSX)](https://pan.baidu.com/s/1qYPPgni)
+
+### Older Versions
+#### 3.1.4
 * [**AutoAuth 3.1.4** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1jIMD082)
 * [**AutoAuth 3.1.4** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1pLNPks7)
 
-### Older Versions
 #### 3.1.3
 * [**AutoAuth 3.1.3** (OSX) (*WITH* Python Install Package)](https://pan.baidu.com/s/1cakEGe)
 * [**AutoAuth 3.1.3** (OSX) (*WITHOUT* Python Install Package)](https://pan.baidu.com/s/1mimH1mK)
