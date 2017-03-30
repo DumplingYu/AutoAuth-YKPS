@@ -1,5 +1,10 @@
 # *AutoAuth-YKPS* Changelog
 
+## 2017.3.30 (3.1.5)
+* Added support and stability of different versions of Python
+* Fixed issue of calling notif() before defining it
+* Removed support of installation packages with python install package
+
 ## 2017.3.29 (3.1.4)
 * Added another two ways of retrieving user's private ip address
 * Used regex instead of split()
