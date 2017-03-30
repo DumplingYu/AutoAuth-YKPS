@@ -24,7 +24,7 @@ Simply downloading and running the python file in github **will not work**! Plea
 * Support Windows / Linux
 
 ## Downloads and Installation
-Before installing AutoAuth, make sure that you have downloaded and installed the latest version of Python through [Python's official website](https://www.python.org/downloads/), or directly downloading [Python 3.6.1](https://www.python.org/ftp/python/3.6.1/python-3.6.1-macosx10.6.pkg).
+Before installing AutoAuth, make sure that you have downloaded and installed the latest version of Python through [Python's official website](https://www.python.org/downloads/), or directly downloading the install package of [Python 3.6.1](https://www.python.org/ftp/python/3.6.1/python-3.6.1-macosx10.6.pkg).
 
 You can find downloads of AutoAuth in [releases](https://github.com/yu-george/AutoAuth-YKPS/releases). Alternatively, you can also download via the links below.
 
